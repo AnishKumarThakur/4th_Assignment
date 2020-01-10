@@ -10,6 +10,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.e.a4th_assignment.R;
+import com.e.a4th_assignment.model.Products;
+import com.e.a4th_assignment.url.Url;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

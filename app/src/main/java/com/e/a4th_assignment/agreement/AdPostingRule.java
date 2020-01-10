@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
+import com.e.a4th_assignment.R;
+
 public class AdPostingRule extends AppCompatActivity {
 
 

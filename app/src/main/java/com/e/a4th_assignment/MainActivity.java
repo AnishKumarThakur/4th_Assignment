@@ -15,6 +15,14 @@ import android.widget.LinearLayout;
 import android.widget.Toast;
 import android.widget.Toolbar;
 
+import com.e.a4th_assignment.adapters.CategoryAdapter;
+import com.e.a4th_assignment.adapters.ImageSliderAdapter;
+import com.e.a4th_assignment.adapters.ProductAdapter;
+import com.e.a4th_assignment.api.ProductAPI;
+import com.e.a4th_assignment.model.Category;
+import com.e.a4th_assignment.model.Products;
+import com.e.a4th_assignment.url.Url;
+
 import java.util.ArrayList;
 import java.util.List;
 

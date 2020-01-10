@@ -18,6 +18,14 @@ import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.e.a4th_assignment.agreement.Terms;
+import com.e.a4th_assignment.api.UsersAPI;
+import com.e.a4th_assignment.model.User;
+import com.e.a4th_assignment.serverresponse.ImageResponse;
+import com.e.a4th_assignment.serverresponse.SignUpResponse;
+import com.e.a4th_assignment.strictmode.StrictModeClass;
+import com.e.a4th_assignment.url.Url;
+
 import java.io.File;
 import java.io.IOException;
 

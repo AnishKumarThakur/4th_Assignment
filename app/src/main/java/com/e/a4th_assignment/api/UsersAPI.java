@@ -1,5 +1,9 @@
 package com.e.a4th_assignment.api;
 
+import com.e.a4th_assignment.model.User;
+import com.e.a4th_assignment.serverresponse.ImageResponse;
+import com.e.a4th_assignment.serverresponse.SignUpResponse;
+
 import java.util.List;
 
 import okhttp3.MultipartBody;

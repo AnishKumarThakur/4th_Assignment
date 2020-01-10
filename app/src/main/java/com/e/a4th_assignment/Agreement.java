@@ -8,6 +8,10 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.CheckBox;
 
+import com.e.a4th_assignment.agreement.AdPostingRule;
+import com.e.a4th_assignment.agreement.Safety;
+import com.e.a4th_assignment.agreement.Terms;
+
 public class Agreement extends AppCompatActivity {
 
     CheckBox chkTerms, chkSafety, chkAd;
